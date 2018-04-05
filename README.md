@@ -12,3 +12,4 @@
 * start web server(tomcat)
 * visit "http://localhost:8080/test/hello"
 * git example
+* git

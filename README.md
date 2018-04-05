@@ -11,3 +11,4 @@
 * upload "test.war" where in project target folder to tomcat webapps folder
 * start web server(tomcat)
 * visit "http://localhost:8080/test/hello"
+* git example
